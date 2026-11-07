@@ -53,4 +53,4 @@ The specific research components hosted in this repository received the followin
 
 ---
 
-*Note: Cumulative high school GPA at graduation was 4.51. Certified official documentation is available upon request for formal academic or professional validation.*
+*Note: Cumulative high school GPA at graduation was 4.51 (weighted) out of a maximum possible of 4.6 (3.92/4.00 unweighted). Certified official documentation is available upon request for formal academic or professional validation.*
