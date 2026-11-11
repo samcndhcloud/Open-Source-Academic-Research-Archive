@@ -1,6 +1,6 @@
 # Open Source Academic Research Archive
 
-An open repository hosting **16,935 words** of original research, raw experimental datasets, and quantitative models across Sports Psychology, Applied Mathematics, Cognitive Psychology, and Microbiology. Authored for the International Baccalaureate (IB) program (2023–2024), this archive provides transparent verification of my analytical methodology and experimental rigor — the exact foundation in data-driven problem dissection and systems thinking behind the architecture of Frictionless Fitness, expanded upon in my **17,485-word** product and systems engineering manifesto: [Why We Built This](https://frictionlessfitness.com/why-we-built-this).
+An open repository hosting **16,935 words** of original research, raw experimental datasets, and quantitative models across Sports Psychology, Applied Mathematics, Cognitive Psychology, and Microbiology. Authored for the International Baccalaureate (IB) program (2023–2024), this archive provides transparent verification of my analytical methodology and experimental rigor — the exact foundation in data-driven problem dissection and systems thinking behind the architecture of Frictionless Fitness, expanded upon in my **17,770-word** product and systems engineering manifesto: [Why We Built This](https://frictionlessfitness.com/why-we-built-this).
 
 ---
 
